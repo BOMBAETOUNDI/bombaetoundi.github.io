@@ -9,6 +9,3 @@
     <body>
       <br><h2>Salut, je m'appele...<br>
       <br><h1> BOMBA ETOUNDI Victor Emmanuel<br>
-
-
-
